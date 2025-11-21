@@ -13,7 +13,7 @@ My Starting Templates:
 Here are my finished projects
 |----------------------------------------------------------------------|
 [Light Circling](https://www.desmos.com/calculator/zhclhabltp)
-[Flappy Bird](https://www.desmos.com/calculator/ly6qbtagta)-[Project Page]((https://github.com/users/Aden12nd/projects/5/views/1?pane=info))
+[Flappy Bird](https://www.desmos.com/calculator/ly6qbtagta) - [Project Page](https://github.com/users/Aden12nd/projects/5/views/1?pane=info)
 [Point Attraction](https://www.desmos.com/calculator/q0vcgdh2zr)
 [Inverted Donut](https://www.desmos.com/3d/lonydqi57t)
 [Projectile Motion Sim](https://www.desmos.com/calculator/jjqz2c6j2r)
