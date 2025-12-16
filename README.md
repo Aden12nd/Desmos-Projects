@@ -6,6 +6,7 @@ My Starting Templates:
 |----------------------------------------------------------------------|
 [Universal_and_Sim_Time](https://www.desmos.com/calculator/quaix72sxs)
 [Universal and Sim Time 3D](https://www.desmos.com/3d/mghr5wpp2f)
+[Important/Helpful Sim Functions](https://www.desmos.com/calculator/jqlmlu8skv)
 [Pixels](https://www.desmos.com/calculator/ztwyb6wutw)
 [Projectile Motion](https://www.desmos.com/calculator/hnifowlv2f)
 [AND](https://www.desmos.com/calculator/w6y4lwsu8k)
@@ -17,5 +18,6 @@ Here are my finished projects
 [Point Attraction](https://www.desmos.com/calculator/q0vcgdh2zr)
 [Inverted Donut](https://www.desmos.com/3d/lonydqi57t)
 [Projectile Motion Sim](https://www.desmos.com/calculator/jjqz2c6j2r)
+[Pendulum Motion](https://www.desmos.com/calculator/brlhckfzuh)
 Here are snapshots of my current projects
 |----------------------------------------------------------------------|
