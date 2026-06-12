@@ -21,3 +21,6 @@ Here are my finished projects
 [Pendulum Motion](https://www.desmos.com/calculator/brlhckfzuh)
 Here are snapshots of my current projects
 |----------------------------------------------------------------------|
+Heat Equation - [Project Page](https://github.com/users/Aden12nd/projects/6)
+Wave Equation - [Project Page](https://github.com/users/Aden12nd/projects/7)
+[Finite Potential Well](https://www.desmos.com/calculator/hllzsgplnx) - [Project Page](https://github.com/users/Aden12nd/projects/8)
